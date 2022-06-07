@@ -1,2 +1,2 @@
-# Artificial-Intelligence
-Here are Projects I did!
+# Artificial-Intelligence-CA0
+simple project for classification and forecasting!
